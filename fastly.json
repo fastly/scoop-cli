@@ -1,0 +1,22 @@
+{
+    "version": "0.7.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/fastly/cli/releases/download/v0.7.0/fastly_v0.7.0_windows-386.zip",
+            "bin": [
+                "fastly.exe"
+            ],
+            "hash": "282862c5b75c9de4a57d86ed94b6543798d903f18e5be178a0fd5f8f2b2e78ee"
+        },
+        "64bit": {
+            "url": "https://github.com/fastly/cli/releases/download/v0.7.0/fastly_v0.7.0_windows-amd64.zip",
+            "bin": [
+                "fastly.exe"
+            ],
+            "hash": "e225fce0bd287204475db3fdcaed917db93bd53860be859cde6d81afd01ce752"
+        }
+    },
+    "homepage": "https://github.com/fastly/cli",
+    "license": "Apache 2.0",
+    "description": "Fastly CLI"
+}
