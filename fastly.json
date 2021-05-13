@@ -1,19 +1,19 @@
 {
-    "version": "0.28.0",
+    "version": "0.29.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/fastly/cli/releases/download/v0.28.0/fastly_v0.28.0_windows-386.zip",
+            "url": "https://github.com/fastly/cli/releases/download/v0.29.0/fastly_v0.29.0_windows-386.zip",
             "bin": [
                 "fastly.exe"
             ],
-            "hash": "c354d69ac0434d91320a19e2fd14eeded21f02b43d4977132fdeec3eebfdb800"
+            "hash": "50520bc2c5b8e77ff8954a912e011ae4ebf9e0453d582f9121e39208aa603c16"
         },
         "64bit": {
-            "url": "https://github.com/fastly/cli/releases/download/v0.28.0/fastly_v0.28.0_windows-amd64.zip",
+            "url": "https://github.com/fastly/cli/releases/download/v0.29.0/fastly_v0.29.0_windows-amd64.zip",
             "bin": [
                 "fastly.exe"
             ],
-            "hash": "b858294534cc28ee863ed3e2671c53a93c9e92d7c6deec1dbc3ea082511e6ba4"
+            "hash": "edbd8bed82f1e4446617f7c70fdd206a13fa9f3c3a4f167b1db135196ab6ec03"
         }
     },
     "homepage": "https://github.com/fastly/cli",
